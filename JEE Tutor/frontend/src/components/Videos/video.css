@@ -1,0 +1,15 @@
+
+.videocard{
+    height: auto;
+    width: 32vh;
+}
+
+.videocardimg{
+    height: 18vh;
+    width: 32vh;
+    object-fit: cover;
+}
+
+.player{
+    height:1px;
+}

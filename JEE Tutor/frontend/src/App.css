@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+.App-header {
+    /* position:absolute; */
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+
+  background-color: #19367f;
+
+  background-image: url("E:\1.PROJECTS\New folder\JEE Tutor\frontend\src\assets\wallpaper.png");
+  height: 100%;
+  min-height: 100vh;
+  background-size: 1920px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+
+/* FOOTER */
+
+.footer {
+  position:fixed;
+  left:0;
+  right:0;
+  bottom: 0 !important;
+
+  background-color: rgb(10, 4, 22,0.5);
+
+}
+.footer-copywright {
+  text-align: center !important;
+}
+/* 
+.footer-body {
+  z-index: 1;
+  text-align: center !important;
+}
+
+@media (max-width: 767px) {
+  .footer-copywright {
+    text-align: center !important;
+  }
+
+  .footer-body {
+    text-align: center !important;
+  }
+} */
+
+/* .footer h3 {
+  font-size: 1em;
+  color: white !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+} */
+
+/* .footer-icons {
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+  padding: 0 !important;
+}
+*/
